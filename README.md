@@ -2,7 +2,8 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on winget repository
-- 📫 How to reach me ...
+- 📫 How to reach me ... twitter @Fearlesstudioss
+-
 
 <!---
 FearlessJustice/FearlessJustice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
